@@ -61,7 +61,7 @@ global.packname = sticker_name
 global.author = sticker_author
 global.wm = 'AzzBot-Yahya'
 
-global.multiplier = 1000 // The higher, The harder levelup
+global.multiplier = 1 // The higher, The harder levelup
 
 global.rpg = {
   emoticon(string) {
